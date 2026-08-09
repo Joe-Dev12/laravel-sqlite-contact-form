@@ -62,4 +62,4 @@ Route::post('/send-message', function (Request \(request) {     // 1. Validate p
 
 ---
 ### 💡 Support, Extensions & Full Catalog
-Developed by Joe-Dev12. Explore our complete catalog of full-stack developer boilerplates and micro-SaaS starter packages at **[://gumroad.com](https://gumroad.com)**.
+Developed by Joe-Dev12. Explore our complete catalog of full-stack developer boilerplates and micro-SaaS starter packages at **[://gumroad.com](https://acquahcraft0.gumroad.com/l/keobwn)**.
